@@ -1,0 +1,10 @@
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\bin\Debug\DataAccessDapper.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\bin\Debug\DataAccessDapper.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\bin\Debug\Dapper.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\bin\Debug\Utils.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\bin\Debug\Utils.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\bin\Debug\Dapper.xml
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\obj\Debug\DataAccessDapper.csprojAssemblyReference.cache
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\obj\Debug\DataAccessDapper.csproj.CopyComplete
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\obj\Debug\DataAccessDapper.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\DataAccessDapper\obj\Debug\DataAccessDapper.pdb

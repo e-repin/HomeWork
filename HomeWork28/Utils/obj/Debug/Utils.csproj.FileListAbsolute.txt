@@ -1,0 +1,5 @@
+C:\Users\Repin\Desktop\Домашка\HomeWork28\Utils\bin\Debug\Utils.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\Utils\bin\Debug\Utils.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\Utils\obj\Debug\Utils.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\Utils\obj\Debug\Utils.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\Utils\obj\Debug\Utils.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\obj\Debug\HomeWork28.csprojAssemblyReference.cache
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\HomeWork28.exe.config
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\HomeWork28.exe
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\HomeWork28.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\DataAccessDapper.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\Utils.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\Dapper.dll
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\DataAccessDapper.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\Utils.pdb
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\bin\Debug\Dapper.xml
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\obj\Debug\HomeWork28.csproj.CopyComplete
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\obj\Debug\HomeWork28.exe
+C:\Users\Repin\Desktop\Домашка\HomeWork28\HomeWork28\obj\Debug\HomeWork28.pdb
